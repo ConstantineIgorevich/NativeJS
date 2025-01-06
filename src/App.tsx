@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { User } from './06-callbacks/06_callbacks';
+import { User } from './Sprint1/Videos/06-callbacks/06_callbacks';
 
 function App() {
   return (

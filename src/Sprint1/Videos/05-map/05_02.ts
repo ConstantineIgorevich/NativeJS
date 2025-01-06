@@ -1,4 +1,4 @@
-import { GovernmentBuildingType, HouseType } from "../02/02_02";
+import { GovernmentBuildingType, HouseType } from "../Sprint1/Videos/02/02_02";
 
 export const getStreetsTitlesOfGovernmentBuildings = (buildings: Array<GovernmentBuildingType>) => {
     return buildings.map(build => build.address.street.title);
