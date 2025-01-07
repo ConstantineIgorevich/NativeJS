@@ -1,4 +1,5 @@
-import { StudentType } from "../Sprint1/Videos/02/02";
+
+import { StudentType } from '../02/02';
 import { addSkill, doesStudentLiveIn, makeStudentActive } from "./03";
 let student: StudentType;
 beforeEach(() => {

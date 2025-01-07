@@ -1,4 +1,5 @@
-import { CityType } from "../Sprint1/Videos/02/02_02";
+
+import { CityType } from '../02/02_02';
 import { demolishHousesOnTheStreet, getBuildingsWithStaffCountGreaterThen } from "./04_2";
 
 let city: CityType;
